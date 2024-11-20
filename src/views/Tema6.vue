@@ -215,7 +215,7 @@
       .px-lg-5.px-4
         Separador 
         #t_6_8.titulo-segundo.color-acento-contenido
-          h2 6.8	Licencias: #[i software comercial] vs. #[i software libre]
+          h2 6.8	Licencias: #[i software] comercial vs. #[i software] libre
         .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/69.png')})`}"
