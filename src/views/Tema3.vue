@@ -57,7 +57,7 @@
 
     p.mb-4 Para Python, hay varias opciones populares:
 
-    SlyderF.mb-2(columnas="col-lg-6")
+    SlyderF.mb-5(columnas="col-lg-6")
       .bg7.brad1.p-4.h-100
         img.img-t.img-a.mb-4(src='@/assets/curso/temas/33.png' alt='')
         .row.justify-content-center.mb-3
@@ -86,6 +86,18 @@
           .col-auto.bg1.px-3.py-1                        
             h5.mb-0.text-center Visual Studio Code
         p.mb-0 Un editor de código fuente ligero pero potente que se ha vuelto muy popular entre los desarrolladores de Python gracias a sus extensiones y su rendimiento.                         
+
+    p La elección del IDE depende en gran medida de las preferencias personales y de las necesidades específicas del proyecto. Muchos analistas de datos utilizan diferentes IDE para diferentes tipos de tareas. A continuación, se presenta una captura de pantalla del IDE RStudio.
+
+    .row.justify-content-center.mt-5 
+      .col-lg-10
+        .titulo-sexto.color-acento-botones
+          h5 Figura 2.
+          span Entorno de trabajo de RStudio
+        
+        .bgfig.p-5.brad.mb-2
+          img.img-a.img-t(src='@/assets/curso/temas/94.png' alt='') 
+        figcaption Fuente: OIT, 2024. 
 
     Separador 
     #t_3_4.titulo-segundo.color-acento-contenido

@@ -168,10 +168,10 @@
             li
               i.fas.fa-check.v1
               span Extracción de información específica de cadenas de texto.
-            li.mb-0
+            li
               i.fas.fa-check.v1
-              span.mb-0 Validación de formatos (por ejemplo, direcciones de correo electrónico, números de teléfono).
-        
+              span Validación de formatos (por ejemplo, direcciones de correo electrónico, números de teléfono).
+            p.mb-0 Tanto R como Python tienen soporte integrado para expresiones regulares. Por ejemplo, en Python:
         .bg2.p-3.brad.j1
           img.img-a.img-t(src='@/assets/curso/temas/81.svg' alt='') 
       .col-lg-4.my-lg-0.my-3.j1

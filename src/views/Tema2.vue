@@ -14,7 +14,7 @@
               .col-lg-auto
                 img.img-a.img-t(src='@/assets/curso/temas/11.svg' alt='')
               .col.pt-lg-0.pt-md-4
-                p.mb-0 Un algoritmo es una secuencia de pasos lógicos y bien definidos que resuelven un problema específico. En programación, los algoritmos permiten desarrollar soluciones eficientes y estructuradas. Algunas características clave, que pueden ayudar a comprender lo que es un algoritmo, son las siguientes:
+                p.mb-0 “La programación es el lenguaje que permite la comunicación con los datos. Este capítulo establece las bases fundamentales de la programación, presentando conceptos esenciales como algoritmos, variables y estructuras de control, que son punto de partida para comprender cómo se manipulan y procesan los grandes volúmenes de datos en el contexto del Big Data.”
             Separador 
             #t_2_1.titulo-segundo.color-acento-contenido
               h2 2.1	Concepto de algoritmo

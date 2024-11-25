@@ -136,7 +136,7 @@
                     p.mb-0 En primer lugar, la recolección se encarga de capturar datos de diversas fuentes, como sensores, redes sociales, transacciones online, etc. Estos datos pueden ser estructurados (como tablas de bases de datos) o no estructurados (como texto, imágenes y videos).
                   .bg5.brad1.p-4.h-100
                     img.img-t.mb-2(src='@/assets/curso/temas/10.svg' alt='')
-                    p.mb-0 En primer lugar, la recolección se encarga de capturar datos de diversas fuentes, como sensores, redes sociales, transacciones online, etc. Estos datos pueden ser estructurados (como tablas de bases de datos) o no estructurados (como texto, imágenes y videos).
+                    p.mb-0 “Una vez recopilados, los datos deben ser almacenados de forma eficiente. Para ello, se utilizan sistemas distribuidos y bases de datos NoSQL, que permiten manejar grandes volúmenes de información de manera escalable y flexible. “
                   .bg4.brad1.p-4.h-100
                     img.img-t.mb-2(src='@/assets/curso/temas/10.svg' alt='')
                     p.mb-0 El siguiente paso es el procesamiento de los datos, que implica la aplicación de técnicas de procesamiento paralelo y distribuido para transformarlos en un formato adecuado para el análisis. Esto puede incluir la limpieza de datos, la transformación de formatos y la agregación de información.
